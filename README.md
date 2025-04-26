@@ -10,7 +10,7 @@
 
 - Python 3.6+
 - PyTorch 1.7+
-- Ultralytics YOLOv8
+- Ultralytics YOLOv8 （git@gitcode.com:gh_mirrors/ul/ultralytics.git）
 - 其他依赖见requirements.txt（如有）
 
 ## 数据集结构

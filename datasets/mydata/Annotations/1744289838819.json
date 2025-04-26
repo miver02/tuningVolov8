@@ -1,0 +1,37 @@
+{
+  "version": "2.3.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "H",
+      "points": [
+        [
+          220.00000000000003,
+          201.55555555555554
+        ],
+        [
+          373.33333333333337,
+          201.55555555555554
+        ],
+        [
+          373.33333333333337,
+          262.0
+        ],
+        [
+          220.00000000000003,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "1744289838819.webp",
+  "imageData": null,
+  "imageHeight": 400,
+  "imageWidth": 600
+}

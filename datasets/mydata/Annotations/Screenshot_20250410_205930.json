@@ -1,0 +1,37 @@
+{
+  "version": "2.3.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "H",
+      "points": [
+        [
+          7.567567567567494,
+          1075.837837837838
+        ],
+        [
+          1075.1351351351352,
+          1075.837837837838
+        ],
+        [
+          1075.1351351351352,
+          1410.9729729729731
+        ],
+        [
+          7.567567567567494,
+          1410.9729729729731
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Screenshot_20250410_205930.jpg",
+  "imageData": null,
+  "imageHeight": 2376,
+  "imageWidth": 1080
+}
